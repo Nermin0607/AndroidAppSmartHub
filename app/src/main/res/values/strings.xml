@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartHub</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">hello_world</string>
+    <string name="login_hello">Welcome to the smart hub.</string>
+    <string name="under_login">Please login to proceed to your dashboard.</string>
+    <string name="under_login_wait">Please wait while we log you in.</string>
+    <string name="create_account">Create account</string>
+    <string name="scan_ble">Scan bluetooth</string>
+</resources>

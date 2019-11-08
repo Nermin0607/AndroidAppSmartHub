@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "95279263444",
+    "firebase_url": "https://mobileappzadaca.firebaseio.com",
+    "project_id": "mobileappzadaca",
+    "storage_bucket": "mobileappzadaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95279263444:android:0d9c9bf8d957ec31b69541",
+        "android_client_info": {
+          "package_name": "com.example.learningkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95279263444-i2m934sn8re0m3icgr12o8ahje6e3lpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learningkotlin",
+            "certificate_hash": "ded4135deafc605bf3400efa7f3989d97d24730c"
+          }
+        },
+        {
+          "client_id": "95279263444-5krbvngj66rgnpoph0t18ncs5kjasb22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDhcAm-rYigas9F5oD6mQZX_otk5v90Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95279263444-5krbvngj66rgnpoph0t18ncs5kjasb22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
